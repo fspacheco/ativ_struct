@@ -1,2 +1,3 @@
-# ativ_struct
+﻿# ativ_struct
 Espaço para teste com atividade estrutura
+Teste
